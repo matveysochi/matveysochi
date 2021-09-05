@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matveysochi
-- 👀 I’m interested in C# ASP ENTITY JavaScript HTML CSS REACT
-- 🌱 I’m currently learning REACT
+- 👀 I’m interested in C# ASP ENTITY JavaScript REACT REDUX SAGA
+- 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me matveysochi@gmail.com
 
